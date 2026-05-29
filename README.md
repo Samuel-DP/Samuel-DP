@@ -11,7 +11,7 @@
 
 ## Languages & Technologies
 
-### Programming & Scripting
+### Programming
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
