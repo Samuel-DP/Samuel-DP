@@ -2,7 +2,7 @@
 
 ### Backend Developer | Data & Financial Markets Enthusiast | Blockchain Learner
 
-I'm a junior backend developer passionate about building logical, efficient and data-driven solutions.  
+I'm a backend developer passionate about building logical, efficient and data-driven solutions.  
 I’m especially interested in **data analysis**, **financial markets**, **blockchain technology** and backend development.
 
 Currently, I'm focused on improving my skills in **Java**, **SQL**, APIs, databases and backend architectures while working on real projects such as my **Portfolio Tracker**.
@@ -59,37 +59,11 @@ Currently, I'm focused on improving my skills in **Java**, **SQL**, APIs, databa
 
 ---
 
-## Featured Project
-
-### Portfolio Tracker
-
-A portfolio management application focused on tracking investments, market data and portfolio performance.
-
-Main features:
-
-- Portfolio creation and management
-- Asset tracking
-- Buy and sell transaction registration
-- Current balance, cost basis and historical profit calculations
-- Market data integration through external APIs
-- SQL database management
-- Clean structure focused on backend logic and data handling
-
-Technologies used:
-
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=flat-square)
-![APIs](https://img.shields.io/badge/APIs-REST-blue?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
 ## Currently Learning
 
 - Backend development with Java
 - Database design and SQL optimization
-- REST APIs and GraphQL
+- REST APIs 
 - Docker and deployment workflows
 - Data analysis applied to financial markets
 - Blockchain fundamentals and decentralized applications
