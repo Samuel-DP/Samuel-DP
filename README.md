@@ -3,7 +3,6 @@
 ## About Me
 
 - Backend developer
-- Trader
 - Passionate about **data analysis, financial markets and blockchain**
 - Interested in building software that solves real problems using logic and data
 - Open to opportunities in **backend development, data or fintech-related projects**
@@ -23,11 +22,10 @@
 ![RPG](https://img.shields.io/badge/RPG-IBM_i-blue?style=for-the-badge)
 
 
-### Backend & APIs
+### APIs
 
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ### Databases
