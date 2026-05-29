@@ -1,20 +1,15 @@
 # Hi there, I'm Samuel 👋
 
-### Backend Developer | Data & Financial Markets Enthusiast | Blockchain Learner
-
 I'm a backend developer passionate about building logical, efficient and data-driven solutions.  
 I’m especially interested in **data analysis**, **financial markets**, **blockchain technology** and backend development.
-
-Currently, I'm focused on improving my skills in **Java**, **SQL**, APIs, databases and backend architectures while working on real projects such as my **Portfolio Tracker**.
 
 ---
 
 ## About Me
 
-- Backend developer focused on **Java, SQL and APIs**
+- Backend developer
 - Passionate about **data analysis, financial markets and blockchain**
 - Interested in building software that solves real problems using logic and data
-- Experience with **REST APIs, GraphQL, Docker and Git**
 - Open to opportunities in **backend development, data or fintech-related projects**
 
 ---
@@ -38,7 +33,6 @@ Currently, I'm focused on improving my skills in **Java**, **SQL**, APIs, databa
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
 ### Databases
 
@@ -47,7 +41,6 @@ Currently, I'm focused on improving my skills in **Java**, **SQL**, APIs, databa
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
----
 
 ### Tools & Platforms
 
@@ -57,16 +50,6 @@ Currently, I'm focused on improving my skills in **Java**, **SQL**, APIs, databa
 
 ---
 
-## Currently Learning
-
-- Backend development with Java
-- Database design and SQL optimization
-- REST APIs 
-- Docker and deployment workflows
-- Data analysis applied to financial markets
-- Blockchain fundamentals and decentralized applications
-
----
 
 ## Interests
 
