@@ -67,9 +67,6 @@ I’m especially interested in **data analysis**, **financial markets**, **block
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Doval-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-doval-software-developer)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Samuel--DP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samuel-DP)
-
-[![Email](https://img.shields.io/badge/Email-samuel1122000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel1122000@gmail.com)
 <!--
 **Samuel-DP/Samuel-DP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
