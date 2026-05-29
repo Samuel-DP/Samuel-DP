@@ -15,8 +15,7 @@ Currently, I'm focused on improving my skills in **Java**, **SQL**, APIs, databa
 - Passionate about **data analysis, financial markets and blockchain**
 - Interested in building software that solves real problems using logic and data
 - Experience with **REST APIs, GraphQL, Docker and Git**
-- Currently studying **Higher Degree in Multiplatform Application Development**
-- Open to junior opportunities in **backend development, data or fintech-related projects**
+- Open to opportunities in **backend development, data or fintech-related projects**
 
 ---
 
@@ -32,7 +31,6 @@ Currently, I'm focused on improving my skills in **Java**, **SQL**, APIs, databa
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![RPG](https://img.shields.io/badge/RPG-IBM_i-blue?style=for-the-badge)
 
----
 
 ### Backend & APIs
 
