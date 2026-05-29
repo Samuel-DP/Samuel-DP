@@ -3,6 +3,7 @@
 ## About Me
 
 - Backend developer
+- Trader
 - Passionate about **data analysis, financial markets and blockchain**
 - Interested in building software that solves real problems using logic and data
 - Open to opportunities in **backend development, data or fintech-related projects**
