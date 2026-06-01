@@ -46,7 +46,7 @@
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Doval-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-doval-software-developer)
+[LinkedIn](https://www.linkedin.com/in/samuel-doval-software-developer/)
 
 <!--
 **Samuel-DP/Samuel-DP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
