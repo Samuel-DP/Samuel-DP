@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Backend developer
+- Backend developer focused on **Java, C#, SQL and APIs**
 - Passionate about **data analysis, financial markets, trading and blockchain**
 - Interested in building software that solves real problems using logic and data
 - Open to opportunities in **backend development, data or fintech-related projects**
@@ -46,7 +46,7 @@
 
 ## Let's Connect
 
-- **LinkedIn:** [Samuel Doval](https://www.linkedin.com/in/samuel-doval-software-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Doval-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-doval-software-developer)
 
 <!--
 **Samuel-DP/Samuel-DP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
