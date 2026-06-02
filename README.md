@@ -2,9 +2,9 @@
 
 ## About Me
 
-- Backend developer focused on **Java, C#, SQL and APIs**
-- Passionate about **data analysis, financial markets, trading and blockchain**
-- Interested in building software that solves real problems using logic and data
+- Backend developer focused on **Java, Python, SQL and APIs**
+- Passionate about **data analysis, financial markets, trading and blockchain technology**
+- Interested in building software that solves real problems using logic, clean architecture and data
 - Open to opportunities in **backend development, data or fintech-related projects**
 
 ---
@@ -15,6 +15,7 @@
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=database&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,6 +42,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+### Currently focused on
+
+- Python for backend development, data analysis and automation
+- Financial data processing and market APIs
+- AI and machine learning fundamentals
+- Clean backend architecture and deployment workflows
 
 ---
 
