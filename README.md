@@ -44,12 +44,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-### Currently focused on
+### Currently learning
 
 - Python for backend development, data analysis and automation
 - Financial data processing and market APIs
 - AI and machine learning fundamentals
-- Clean backend architecture and deployment workflows
+
 
 ---
 
