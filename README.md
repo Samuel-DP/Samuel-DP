@@ -44,7 +44,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-### Currently learning
+### Currently learning ⚡
 
 - Python for backend development, data analysis and automation
 - Financial data processing and market APIs
